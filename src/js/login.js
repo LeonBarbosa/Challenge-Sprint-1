@@ -23,7 +23,7 @@ inputs.forEach(input=>{
     input.addEventListener("blur",remfocus)
 })
 
-/*===== LOGIN =====*/
+/*===== LOGIN & REGISTER =====*/
 document.addEventListener('DOMContentLoaded', () => {
   const showRegisterLink = document.getElementById('show-register');
   const showLoginLink = document.getElementById('show-login');
