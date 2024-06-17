@@ -17,7 +17,7 @@ function remfocus(){
     }
 }
 
-/*=== To call function===*/
+/* ======== To call function ======== */
 inputs.forEach(input=>{
     input.addEventListener("focus",addfocus)
     input.addEventListener("blur",remfocus)
