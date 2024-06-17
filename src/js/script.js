@@ -13,7 +13,7 @@ const showMenu = (toggleId, navId) =>{
 
 showMenu('nav-toggle','nav-menu')
 
-/*=============== SHOW DROPDOWN MENU ===============*/
+/* =============== SHOW DROPDOWN MENU =============== */
 const dropdownItems = document.querySelectorAll('.dropdown__item')
 
 // 1. Select each dropdown item
