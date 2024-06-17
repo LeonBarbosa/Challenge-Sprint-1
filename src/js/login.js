@@ -1,4 +1,4 @@
-/*=============== login ===============*/
+/* =============== login =============== */
 
 /*===== FOCUS =====*/
 const inputs = document.querySelectorAll(".form__input")
