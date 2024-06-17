@@ -9,4 +9,6 @@ Igor Soos Rocha Ribeiro – RM 556010;
 
 ========= GITHUB ==========
 
+https://github.com/LeonBarbosa/Challenge-Sprint-1.git
+
 https://leonbarbosa.github.io/Challenge-Sprint-1/
