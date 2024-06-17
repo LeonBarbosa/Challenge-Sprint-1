@@ -1,15 +1,15 @@
 /* =============== login =============== */
 
-/*===== FOCUS =====*/
+/* ===== FOCUS ===== */
 const inputs = document.querySelectorAll(".form__input")
 
-/*=== Add focus ===*/
+/* ======= Add focus ======= */
 function addfocus(){
     let parent = this.parentNode.parentNode
     parent.classList.add("focus")
 }
 
-/*=== Remove focus ===*/
+/* ======= Remove focus ======= */
 function remfocus(){
     let parent = this.parentNode.parentNode
     if(this.value == ""){
