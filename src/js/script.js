@@ -51,7 +51,7 @@ const toggleItem = (item) =>{
    }
 }
 
-/*=============== DELETE DROPDOWN STYLES ===============*/
+/* =============== DELETE DROPDOWN STYLES =============== */
 const mediaQuery = matchMedia('(min-width: 1118px)'),
      dropdownContainer = document.querySelectorAll('.dropdown__container')
 
